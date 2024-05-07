@@ -13,3 +13,6 @@
   <a href="malito:carlaljovito@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="www.linkedin.com/in/carlalopesjovito" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
+<hr>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlalopesj&layout=compact&bg_color=111&border_color=0077B5&title_color=D14836&text_color=FFF)
